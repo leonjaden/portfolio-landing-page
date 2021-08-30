@@ -9,3 +9,17 @@ body{
   background-image: url(images/background.jpeg);
   color: lightcyan;
 }
+
+img{
+  float: right;
+  width: 20pc;
+  height: 10pc;
+  margin-right: 30pc;
+}
+
+img2{
+  float: left;
+  width: 20pc;
+  height: 10pc;
+  margin-right: 30pc;
+}
