@@ -1,5 +1,10 @@
-*{
-  margin: 0;
-  padding: 0;
-  font-family: Arial, Helvetica, sans-serif;
+#about{
+  background-position: center;
+  background-size: cover;
+width: 100pc;
+height: 100pc;
+}
+
+body{
+  background-image: url(images/background.jpeg);
 }
