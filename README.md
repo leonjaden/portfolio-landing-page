@@ -1,5 +1,5 @@
 # Leon's Portfolio Page
-* [![webpage](https://leonjaden.github.io/portfolio-landing-page/))](https://github.com/leonjaden/portfolio-landing-page)
+
 #### {A website showing my Portfolio}, {1st September 2021}
 #### Author **{Leon Jaden}**
 ## Description
