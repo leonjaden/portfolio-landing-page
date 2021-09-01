@@ -1,9 +1,16 @@
-
-
-#Author:Leon Aggrey Jaden
-
-#A webpage describing Leon Jaden's portfolio
-
-#Project created using VSCode and incorporates elements of HTML and CSS
-
-#Project licensed using GNU General Public License (GPL) 2.0
+# Leon's Portfolio Page
+#### {A website showing my Portfolio}, {1st September 2021}
+#### Author **{Leon Jaden}**
+## Description
+{My website describes my educational background, work experience and illustrates some of my hobbies and interests. }
+## Setup/Installation Requirements
+* To view the Website you need a browser to log into Github. You can check the about section for a link to the live website on Github
+## Known Bugs
+{There are no known bugs }
+## Technologies Used
+{The project was created mainly using HTML and CSS. I used VS Code to code, and used the terminal in VS Code to push my commit to Github}
+## Support and contact details
+{My [Email](leonjaden5@gmail.com) incase of any any queries or additions }
+### License
+* MIT License
+Copyright (c) 2021 leonjaden
