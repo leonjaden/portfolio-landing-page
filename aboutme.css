@@ -12,10 +12,11 @@ body{
 
 h1{
   font-style: italic;
-  color: darkred;
+  color: green;
 }
 
 h2{
   font-weight: bold;
+  color: green;
 
 }
