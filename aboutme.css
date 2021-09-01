@@ -1,8 +1,13 @@
-img2{
-  float: left;
-  width: 20pc;
-  height: 10pc;
-  margin-right: 30pc;
+#bck{
+  background-position: center;
+  background-size: cover;
+  width: 100pc;
+  height: 100pc;
+}
+
+body{
+  background-image: url(images/about-background.jpeg);
+  color: lightcyan;
 }
 
 p1{
